@@ -8,7 +8,7 @@ If you want to recalculate the embeddings or conduct experiments that require th
   - To create the virtual environment for YaTC, please refer to the [instructions](https://github.com/NSSL-SJTU/YaTC?tab=readme-ov-file#dependency) in the YaTC repository.
 - ET-BERT: use https://github.com/linwhitehat/ET-BERT to obtain the source code, checkpoint, and the requirements for the environment. License: MIT.
 - netFound: use https://github.com/SNL-UCSB/netfound to obtain the source code for the netFound model. The public checkpoint is available at https://huggingface.co/snlucsb/netFound-640M-base. License: MIT.
-- NetMamba: use https://github.com/wangtz19/NetMamba to obtain the source code, checkpoint, and the requirements for the environment. License) none specified.
+- NetMamba: use https://github.com/wangtz19/NetMamba to obtain the source code, checkpoint, and the requirements for the environment. License: none specified.
 
 ### Embeddings calculation
 After the preparation of the models and environments, use ```src\embeddings_calculation``` to recalculate the embeddings. 
