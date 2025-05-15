@@ -2,7 +2,7 @@
 
 ## Precalculated Embeddings
 This directory contains the data used in the project. The data is organized into subdirectories for each model.
-Please, obtain the precalculated embeddings from this link: 
+Please, obtain the precalculated embeddings from this link: https://1drv.ms/u/c/60b97bf95d6e1cc6/Ea_BaGgRvGdIhQMJ4gH_RU4BAc0URN1-0DMLQva0hWkBog?e=iAeyot
 
 After downloading the archive, untar it and place the content in the `data` folder. The folder `data` should include folders for each model, containing the embeddings for each dataset.
 
