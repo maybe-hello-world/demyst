@@ -30,4 +30,5 @@ pip install -r requirements.txt
 
 ## Running the code
 The folder `src` contains the code for all the experiments. Each experiment is located in a separate Jupyter notebook. 
+All experiments in the `src\embeddings_calculation` and `src\perturb*.ipynb` will require full models and environments for reproduction. All other experiments could be run with precalculated embeddings.
 
