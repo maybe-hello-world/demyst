@@ -13,4 +13,4 @@ The embeddings are generated from the following datasets:
 - **CIC-APT-IIoT24** - https://www.unb.ca/cic/datasets/iiot-dataset-2024.html (non-standard license is provided at https://www.unb.ca/cic/datasets/index.html)
 - **CAIDA** - https://catalog.caida.org/dataset/passive_100g_sampler (license: CAIDA Acceptable Use Agreement, https://www.caida.org/about/legal/aua/)
 - **MAWI** - https://mawi.wide.ad.jp/mawi/samplepoint-F/2025/ (license: none stated)
-- **netReplica synthetic dataset** -  (license: MIT)
+- **netReplica synthetic dataset** - https://1drv.ms/u/c/60b97bf95d6e1cc6/Ec1P6SSKDkBJrfW-5H1g-0cBihYLO1vnePuAvTlN7tuyfg?e=7f29CQ (license: MIT)
